@@ -1,0 +1,7 @@
+C:\Users\max\source\repos\G_code_project\G_code_project\bin\Debug\G_code_project.pdb
+C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.csprojAssemblyReference.cache
+C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.UserControl1.resources
+C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.csproj.GenerateResource.cache
+C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.pdb
+C:\Users\max\source\repos\G_code_project\G_code_project\bin\Debug\G_code_project.dll
+C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.dll

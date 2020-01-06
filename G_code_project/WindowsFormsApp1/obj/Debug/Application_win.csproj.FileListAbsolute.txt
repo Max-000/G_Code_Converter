@@ -1,0 +1,12 @@
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\bin\Debug\G_Code_Convert.exe.config
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\bin\Debug\G_Code_Convert.exe
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\bin\Debug\G_Code_Convert.pdb
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\bin\Debug\G_code_project.dll
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\bin\Debug\G_code_project.pdb
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.Properties.Resources.resources
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csproj.GenerateResource.cache
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csproj.CopyComplete
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.exe
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.pdb
+C:\Users\max\source\repos\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csprojAssemblyReference.cache
