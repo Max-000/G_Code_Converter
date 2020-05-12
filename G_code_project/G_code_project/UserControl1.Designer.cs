@@ -28,23 +28,24 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.Convert_button = new System.Windows.Forms.Button();
+            this.Convert_to_g91_button = new System.Windows.Forms.Button();
             this.G_code_in = new System.Windows.Forms.RichTextBox();
             this.G_code_out = new System.Windows.Forms.RichTextBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.Help_button = new System.Windows.Forms.Button();
+            this.Convert_to_g90_button = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // Convert_button
+            // Convert_to_g91_button
             // 
-            this.Convert_button.Location = new System.Drawing.Point(42, 35);
-            this.Convert_button.Name = "Convert_button";
-            this.Convert_button.Size = new System.Drawing.Size(125, 58);
-            this.Convert_button.TabIndex = 0;
-            this.Convert_button.Text = "Convert";
-            this.Convert_button.UseVisualStyleBackColor = true;
-            this.Convert_button.Click += new System.EventHandler(this.Convert_button_Click);
+            this.Convert_to_g91_button.Location = new System.Drawing.Point(42, 35);
+            this.Convert_to_g91_button.Name = "Convert_to_g91_button";
+            this.Convert_to_g91_button.Size = new System.Drawing.Size(125, 58);
+            this.Convert_to_g91_button.TabIndex = 0;
+            this.Convert_to_g91_button.Text = "Convert";
+            this.Convert_to_g91_button.UseVisualStyleBackColor = true;
+            this.Convert_to_g91_button.Click += new System.EventHandler(this.Convert_to_g91_button_click);
             // 
             // G_code_in
             // 
@@ -92,17 +93,28 @@
             this.Help_button.UseVisualStyleBackColor = true;
             this.Help_button.Click += new System.EventHandler(this.Help_button_Click);
             // 
+            // Convert_to_g90_button
+            // 
+            this.Convert_to_g90_button.Location = new System.Drawing.Point(668, 39);
+            this.Convert_to_g90_button.Name = "Convert_to_g90_button";
+            this.Convert_to_g90_button.Size = new System.Drawing.Size(125, 58);
+            this.Convert_to_g90_button.TabIndex = 6;
+            this.Convert_to_g90_button.Text = "Convert";
+            this.Convert_to_g90_button.UseVisualStyleBackColor = true;
+            this.Convert_to_g90_button.Click += new System.EventHandler(this.Convert_to_g90_button_Click);
+            // 
             // UserControl1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.Controls.Add(this.Convert_to_g90_button);
             this.Controls.Add(this.Help_button);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.G_code_out);
             this.Controls.Add(this.G_code_in);
-            this.Controls.Add(this.Convert_button);
+            this.Controls.Add(this.Convert_to_g91_button);
             this.Name = "UserControl1";
             this.Size = new System.Drawing.Size(800, 450);
             this.ResumeLayout(false);
@@ -112,11 +124,12 @@
 
         #endregion
 
-        private System.Windows.Forms.Button Convert_button;
+        private System.Windows.Forms.Button Convert_to_g91_button;
         private System.Windows.Forms.RichTextBox G_code_in;
         private System.Windows.Forms.RichTextBox G_code_out;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button Help_button;
+        private System.Windows.Forms.Button Convert_to_g90_button;
     }
 }

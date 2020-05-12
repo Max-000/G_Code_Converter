@@ -5,3 +5,17 @@ C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project
 C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.pdb
 C:\Users\max\source\repos\G_code_project\G_code_project\bin\Debug\G_code_project.dll
 C:\Users\max\source\repos\G_code_project\G_code_project\obj\Debug\G_code_project.dll
+F:\G_Code_Converter-master\G_code_project\G_code_project\bin\Debug\G_code_project.dll
+F:\G_Code_Converter-master\G_code_project\G_code_project\bin\Debug\G_code_project.pdb
+F:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.csprojAssemblyReference.cache
+F:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.UserControl1.resources
+F:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.csproj.GenerateResource.cache
+F:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.dll
+F:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.pdb
+D:\G_Code_Converter-master\G_code_project\G_code_project\bin\Debug\G_code_project.dll
+D:\G_Code_Converter-master\G_code_project\G_code_project\bin\Debug\G_code_project.pdb
+D:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.csprojAssemblyReference.cache
+D:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.UserControl1.resources
+D:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.csproj.GenerateResource.cache
+D:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.dll
+D:\G_Code_Converter-master\G_code_project\G_code_project\obj\Debug\G_code_project.pdb

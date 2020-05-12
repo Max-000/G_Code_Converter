@@ -28,16 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.userControl11 = new G_code_project.UserControl1();
+            this.control_convert = new G_code_project.UserControl1();
             this.SuspendLayout();
             // 
-            // userControl11
+            // control_convert
             // 
-            this.userControl11.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.userControl11.Location = new System.Drawing.Point(-1, -2);
-            this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(816, 489);
-            this.userControl11.TabIndex = 0;
+            this.control_convert.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.control_convert.Location = new System.Drawing.Point(-1, -2);
+            this.control_convert.Name = "control_convert";
+            this.control_convert.Size = new System.Drawing.Size(807, 458);
+            this.control_convert.TabIndex = 0;
             // 
             // Form1
             // 
@@ -45,7 +45,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.userControl11);
+            this.Controls.Add(this.control_convert);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -54,7 +54,7 @@
 
         #endregion
 
-        private G_code_project.UserControl1 userControl11;
+        private G_code_project.UserControl1 control_convert;
     }
 }
 
