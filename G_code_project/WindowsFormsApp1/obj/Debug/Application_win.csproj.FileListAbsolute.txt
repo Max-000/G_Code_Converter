@@ -22,3 +22,15 @@ D:\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\Application
 D:\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csproj.CopyComplete
 D:\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.exe
 D:\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.pdb
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\bin\Debug\G_Code_Convert.exe.config
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\bin\Debug\G_Code_Convert.exe
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\bin\Debug\G_Code_Convert.pdb
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\bin\Debug\G_code_project.dll
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\bin\Debug\G_code_project.pdb
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csprojAssemblyReference.cache
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.Properties.Resources.resources
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csproj.GenerateResource.cache
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\Application_win.csproj.CopyComplete
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.exe
+C:\Users\max\Desktop\just projects\G_Code_Converter-master\G_code_project\WindowsFormsApp1\obj\Debug\G_Code_Convert.pdb

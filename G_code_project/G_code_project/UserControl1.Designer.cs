@@ -61,7 +61,7 @@
             this.G_code_out.Name = "G_code_out";
             this.G_code_out.Size = new System.Drawing.Size(211, 382);
             this.G_code_out.TabIndex = 2;
-            this.G_code_out.Text = "";
+            this.G_code_out.Text = "X10    Y10    Z10\nX15    Y15    Z15\nX20    Y20    Z20";
             // 
             // textBox1
             // 
